@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "Prod-Back-End": {
+      "schemaPath": "src/generated/prisma.graphql",
+      "extensions": {
+        "endpoints": {
+          "dev": "https://us1.prisma.sh/jose-23feaf/Prod-Back_End/Prod-Back-End"
+        }
+      }
+    }
+  }
+}
