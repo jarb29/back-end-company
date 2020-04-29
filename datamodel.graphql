@@ -14,10 +14,3 @@ type Item {
   price: Int!
 }
 
-type Plegado {
-  id: ID! @id
-  maquina: String!
-  operador: String!
-  modelo: String!
-}
-
